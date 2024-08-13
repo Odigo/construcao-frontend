@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aliceblue;
+    display: flex;
+    color: #333;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+}
+
+header {
+    padding: 16px;
+    display: flex;
+    justify-content: space-between;
+}

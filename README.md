@@ -33,17 +33,3 @@ npm start
 ```shell
 npm run nome-do-script
 ```
-
-c Execute o comando git para verificar a situação do repositório local.
-
-git status
-
-d Execute o comando git para adicionar o arquivo modificado ao repositório local.
-
-git add README.md
-
-e Execute o comando git para verificar novamente a situação do repositório local.
-
-f Execute o comando git para efetivar a alteração com uma mensagem descritiva "Alterando arquivo README.md".
-
-git commit -m "Alterando arquivo README.md"
